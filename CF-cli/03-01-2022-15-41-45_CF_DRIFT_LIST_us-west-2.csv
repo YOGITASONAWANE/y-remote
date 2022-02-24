@@ -1,0 +1,2 @@
+StackName,StackStatus,CreatedTime,DriftStatus
+s3-01a-yaml,CREATE_COMPLETE,2021-12-16T16:34:15.034000+00:00,DRIFTED
