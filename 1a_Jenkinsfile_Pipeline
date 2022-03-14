@@ -3,7 +3,11 @@ pipeline {
     stages {
         stage('Build') {
             steps {
+<<<<<<< HEAD
                 echo 'This is Build Stage-first stage.'
+=======
+                echo 'This is Build Stage-first.'
+>>>>>>> e13f981ae205b15cc89f9cfe29034cb89ea6d1d5
             }
         }
         stage('Test') {
